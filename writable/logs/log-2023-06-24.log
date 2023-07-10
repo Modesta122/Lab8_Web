@@ -1,0 +1,43 @@
+CRITICAL - 2023-06-24 09:07:34 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:07:34 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:07:47 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:08:25 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 {main}
+CRITICAL - 2023-06-24 09:08:25 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 {main}
+CRITICAL - 2023-06-24 09:09:14 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:09:17 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:09:22 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:09:22 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:09:25 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:09:59 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:10:00 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:10:22 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:10:31 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-24 09:10:35 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
