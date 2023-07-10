@@ -1,0 +1,63 @@
+CRITICAL - 2023-06-26 08:12:04 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:07 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:45 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:50 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:51 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:52 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:52 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:52 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:53 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:53 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 08:12:55 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_ci\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:22:33 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:22:35 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:22:45 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:29:38 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:29:39 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:31:02 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:31:03 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:32:41 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:33:03 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
+CRITICAL - 2023-06-26 21:33:30 --> Call to undefined method CodeIgniter\CodeIgniter::setContext()
+#0 C:\xampp\htdocs\Lab8_web\ci4\system\Commands\Server\rewrite.php(43): require_once()
+#1 {main}
